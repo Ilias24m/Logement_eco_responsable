@@ -47,9 +47,7 @@ Exécutez le fichier serveur.py avec la commande :
 python3 serveur.py
 Ouvrez votre navigateur et accédez à la page index.html pour interagir avec le site.
 
-Utilisez un outil comme Postman ou cURL pour tester les requêtes RESTful en suivant les exemples donnés dans requete.txt.
+Organisation de l'archive
 
-Organisation du projet
-
-Chaque dossier et fichier est clairement annoté pour indiquer à quelle partie du TP il correspond. Les explications nécessaires sont incluses directement dans les fichiers ou sous forme de commentaires.
+Chaque dossier et fichier est clairement intitulé pour indiquer à quelle partie du TP il correspond. Les explications nécessaires sont incluses directement dans les fichiers sous forme de commentaires.
 
