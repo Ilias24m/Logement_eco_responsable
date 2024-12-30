@@ -51,4 +51,3 @@ Organisation de l'archive
 
 Chaque dossier et fichier est clairement intitulé pour indiquer à quelle partie du TP il correspond. Les explications nécessaires sont incluses directement dans les fichiers sous forme de commentaires.
 
-En ce qui concerne l'utilisation de ChatGPT pour être totalement transparent j'ai utilisé un outil un peu différent (GITHUB Copilot) où il n'y pas spécifiquement de prompt/ou on ne peut pas y avoir directement accès mais je peux vous indiquer que je l'ai utiliser pour avoir une base de code HTML sur laquel j'ai apporté mes propres améliorations (car certaine fonctionnalité ne fonctionnait pas directement ou pas de manière voulu).
